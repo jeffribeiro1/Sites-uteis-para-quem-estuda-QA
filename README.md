@@ -21,6 +21,7 @@ Esta lista reúne sites e ferramentas úteis para estudar e praticar testes de s
 | Site | Para que serve | O que você pode praticar |
 |---|---|---|
 | [UI Testing Playground](https://www.uitestingplayground.com/) | Possui desafios específicos para automação de testes. | Localizadores, XPath, CSS Selector, AJAX, elementos dinâmicos e esperas. |
+| [GoodDeal](https://delta-qa.com/playground/) | Loja fictícia de roupas esportivas, gratuita e sem cadastro. | Busca, carrinho, cupom, checkout com cartões de teste, login com conta demo e comparação de capturas de tela. |
 | [Selenium](https://www.selenium.dev/documentation/) | Documentação oficial do Selenium. | Automação de navegadores com Java, Python, JavaScript e outras linguagens. |
 | [Playwright](https://playwright.dev/) | Framework para testes automatizados em diferentes navegadores. | Testes end-to-end, screenshots, relatórios e execução paralela. |
 | [Cypress](https://docs.cypress.io/) | Ferramenta para automação de aplicações web modernas. | Testes end-to-end, componentes, requisições e validações. |
